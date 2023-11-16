@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442875992543",
+    "project_id": "pracfb3",
+    "storage_bucket": "pracfb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442875992543:android:aae5bde1649425dbfe4c6a",
+        "android_client_info": {
+          "package_name": "com.example.firebase3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRDE3hGp6obJuQ73QLVAe1mZIPA2QVyQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
